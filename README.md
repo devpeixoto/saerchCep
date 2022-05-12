@@ -1,3 +1,10 @@
+Criando um buscador de cep 
+consumindo dados da api https://viacep.com.br/ws/
+usando axios.create para fazer essa busca (requisição http)
+usando keyframa para dar uma animação no titulo dando 2s para abertura do title
+usando também uma media query para ajustar o tamanho dos objetos quando não preenchem na tela 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
